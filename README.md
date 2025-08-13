@@ -141,6 +141,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+
+
 ## 📊 Estatísticas do GitHub
 ![Lily Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lily-Yin&show_icons=true&theme=tokyonight)
 
