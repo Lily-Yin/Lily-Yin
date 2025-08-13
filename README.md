@@ -5,7 +5,7 @@
 📚 Sempre buscando criar projetos criativos e úteis.
 
 ---
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0bee0f26-d52e-43a1-a82f-53e33564de3f" />
   ##
 
 <div> 
