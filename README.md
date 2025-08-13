@@ -10,10 +10,10 @@
       ゲームデザイナー
     </b>
       <br>
-         Hi there! I'm Lily
+    Hi there! I'm Lily Yin 
       <br>
   </samp>
-
+</div>
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=Lily-Yin&s=40&c=640fa9&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A+&ta=" /></p> 
 </div>
