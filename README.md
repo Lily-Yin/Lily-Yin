@@ -6,8 +6,7 @@
 
 ---
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/0bee0f26-d52e-43a1-a82f-53e33564de3f" />
-  ##
-
+  
 <div> 
   <a href="https://www.youtube.com/channel/UCTO-jMCNbyFOk-vPU7f8x3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lily_lady26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
