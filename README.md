@@ -33,7 +33,8 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&letterSpacing=0.1em&pause=1000&color=6F2FD0&width=435&lines=I+am+from+Brazil+;I+am+a+game+developer+and+game+designer;Be+welcome+%E2%99%A5" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?
+font=Pixelify+Sans&letterSpacing=0.1em&pause=1000&color=6F2FD0&center=true&width=435&lines=I+am+from+Brazil+;I+am+a+game+developer+;And+I'm+also+a+game+designer;Be+welcome+%E2%99%A5" alt="Typing SVG" /></a>
 </div>
 
 <br>
