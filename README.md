@@ -33,7 +33,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+game+of+developer+and+also+a;I'm+also+a+game+designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&letterSpacing=0.1em&pause=1000&color=6F2FD0&width=435&lines=I+am+from+Brazil;I+am+a+game+of+developer++and+also+a+game+designer;Be+welcome+%E2%99%A5" alt="Typing SVG" /></a>
 </div>
 
 <br>
