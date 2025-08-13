@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 
-
 <br>
 <br>
 
@@ -10,7 +9,7 @@
       ゲームデザイナー
     </b>
       <br>
-    Hi there! I'm Lily Yin 
+      Hi there! I'm Lily Yin
       <br>
   </samp>
 </div>
