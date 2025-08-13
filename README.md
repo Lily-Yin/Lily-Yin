@@ -172,3 +172,8 @@
 
 ---
 > _"Sempre criando, sempre aprendendo."_ 💡
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
