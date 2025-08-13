@@ -32,6 +32,14 @@
 <br>
 <br>
 
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+game+of+developer+and+also+a;I'm+also+a+game+designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+<br>
+<br>
+
 ---
 <img width="540" height="700" alt="Image" src="https://github.com/user-attachments/assets/0bee0f26-d52e-43a1-a82f-53e33564de3f" />
   
