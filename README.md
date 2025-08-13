@@ -144,6 +144,7 @@
 <br/>
 <br/>
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 ## 📊 Estatísticas do GitHub
 ![Lily Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lily-Yin&show_icons=true&theme=neon)
