@@ -4,6 +4,12 @@
 💻 Foco em Python, JavaScript e desenvolvimento de jogos.  
 📚 Sempre buscando criar projetos criativos e úteis.
 
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=Lily-Yin&s=40&c=640fa9&bg=00000000&no=2&ff=digi&tb=Visits%3A+&ta=" /></p> 
+</div>
+
+
 ---
 <img width="540" height="700" alt="Image" src="https://github.com/user-attachments/assets/0bee0f26-d52e-43a1-a82f-53e33564de3f" />
   
