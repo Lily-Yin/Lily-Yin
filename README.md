@@ -16,7 +16,21 @@
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=Lily-Yin&s=40&c=640fa9&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A+&ta=" /></p> 
 </div>
+      
+<br>
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/hmD0KIs.png" width="200">
+</div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Lily_♡-black" />
+</div>
 
+<br>
+<br>
 
 ---
 <img width="540" height="700" alt="Image" src="https://github.com/user-attachments/assets/0bee0f26-d52e-43a1-a82f-53e33564de3f" />
