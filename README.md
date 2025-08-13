@@ -8,7 +8,7 @@
     <b>
       ゲームデザイナー
     </b>
-      <br>
+    <br>
       Hi there! I'm Lily Yin
       <br>
   </samp>
