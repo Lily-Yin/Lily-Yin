@@ -10,7 +10,7 @@
       ゲームデザイナー
     </b>
       <br>
-      Hi there! I'm Lily 
+      Hi there! I'm Lily
       <br>
   </samp>
 </div>
