@@ -1,8 +1,8 @@
-# 🌸 Lily Yin
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9745f5"/>
 
-✨ Desenvolvedora em constante aprendizado e apaixonada por tecnologia.  
-💻 Foco em Python, JavaScript e desenvolvimento de jogos.  
-📚 Sempre buscando criar projetos criativos e úteis.
+
+<br>
+<br>
 
 
 <div align="center">
