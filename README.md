@@ -53,7 +53,7 @@
   <div> 
   
 
-<div align="center">
+<p align="center">
 ## 🚀 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -61,10 +61,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-<div> 
+</p>
 
 ---
-<div align="center">
+<p align="center">
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -179,7 +179,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<div> 
+</p>
 
 <br/>
 <br/>
@@ -193,12 +193,12 @@
 <br/>
 <br/>
 
-<div align="center">
+<p align="center">
 ## 📊 Estatísticas do GitHub
 ![Lily Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lily-Yin&show_icons=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lily-Yin&layout=compact&theme=neon)
-<div> 
+</p>
 ---
 
 <div align="center">
