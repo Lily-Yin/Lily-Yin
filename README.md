@@ -212,6 +212,7 @@
 ## 📫 Contato
 
 <div align="center">
+
 ✉ **E-mail:** [lilymara69@gmail.com](mailto:lilymara69@gmail.com)  
 🌐 **GitHub:** [github.com/Lily-Yin](https://github.com/Lily-Yin)
 <div> 
