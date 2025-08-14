@@ -193,7 +193,9 @@
 </p>
 
 ---
-
+<p align="center">
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/b98a176f-7b23-4deb-a961-de89e011c5f7" />
+</p>
 
 ## 📫 Contato
 
