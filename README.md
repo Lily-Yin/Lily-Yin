@@ -194,7 +194,7 @@
 
 ---
 <p align="center">
-<img width="350" height="450" alt="Image" src="https://github.com/user-attachments/assets/b98a176f-7b23-4deb-a961-de89e011c5f7" />
+<img width="350" height="500" alt="Image" src="https://github.com/user-attachments/assets/b98a176f-7b23-4deb-a961-de89e011c5f7" />
 </p>
 
 ## 📫 Contato
