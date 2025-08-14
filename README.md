@@ -41,18 +41,19 @@
 <br>
 
 ---
+<div align="center">
 <img width="540" height="700" alt="Image" src="https://github.com/user-attachments/assets/0bee0f26-d52e-43a1-a82f-53e33564de3f" />
   
-<div> 
+
   <a href="https://www.youtube.com/channel/UCTO-jMCNbyFOk-vPU7f8x3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/lily_lady26" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/liily_dark" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/417807432941830148" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lilymara69@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  <div> 
   
 
-
+<div align="center">
 ## 🚀 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -60,8 +61,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+<div> 
 
 ---
+<div align="center">
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -176,6 +179,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<div> 
 
 <br/>
 <br/>
@@ -189,19 +193,24 @@
 <br/>
 <br/>
 
+<div align="center">
 ## 📊 Estatísticas do GitHub
 ![Lily Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lily-Yin&show_icons=true&theme=neon)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lily-Yin&layout=compact&theme=neon)
-
+<div> 
 ---
 
+<div align="center">
 ## 📫 Contato
 ✉ **E-mail:** [lilymara69@gmail.com](mailto:lilymara69@gmail.com)  
 🌐 **GitHub:** [github.com/Lily-Yin](https://github.com/Lily-Yin)
+<div> 
 
 ---
+<div align="center">
 > _"Sempre criando, sempre aprendendo."_ 💡
+<div> 
 
 <br>
 <br>
