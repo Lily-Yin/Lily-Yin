@@ -14,11 +14,9 @@
   </samp>
 </div>
 <p align="center">
-  <img
-    src="https://visit-counter.vercel.app/counter.png?page=Lily-Yin&s=40&c=640fa9&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A+&ta="
-    alt="Profile Visits"
-  />
+  <img src="https://visit-counter.vercel.app/counter.png?page=Lily-Yin" />
 </p>
+
 
       
 <br>
