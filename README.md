@@ -42,7 +42,7 @@
 
 ---
 <div align="center">
-![Image](https://github.com/user-attachments/assets/a2ce558f-7de8-46fc-af0a-582be4980ad0)
+<img width="340" height="500" alt="Image" src=(https://github.com/user-attachments/assets/fd6ac00f-59c1-403e-8a2a-85a4c5049150) />
   
 
   <a href="https://www.youtube.com/channel/UCTO-jMCNbyFOk-vPU7f8x3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
